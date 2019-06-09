@@ -1,0 +1,15 @@
+.box_container {
+    display: flex;
+    flex-direction: row;
+}
+
+#box1 {
+    border: 2px dotted black;
+    width: 50%;
+}
+
+#box2 {
+    border: 2px dotted blue;
+    width: 50%;
+
+}
